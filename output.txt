@@ -1,0 +1,177 @@
+Script started on Monday 25 March 2019 03:23:00 PM IST
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ git add output.y[Ktxt
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mnew file:   output.txt[m
+
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ git commit -m ""o"u"t"p"u"t" "f"i"l"e" "a"d" [A]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd""e"d"[C
+[master 1faaae8] output file added
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 output.txt
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ git push origin master
+Username for 'https://github.com': bmidhunbabu
+Password for 'https://bmidhunbabu@github.com': 
+To https://github.com/bmidhunbabu/pull-command.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/bmidhunbabu/pull-command.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ git pull oe[Krigin master
+remote: Enumerating objects: 5, done.[K
+remote: Counting objects:  20% (1/5)   [Kremote: Counting objects:  40% (2/5)   [Kremote: Counting objects:  60% (3/5)   [Kremote: Counting objects:  80% (4/5)   [Kremote: Counting objects: 100% (5/5)   [Kremote: Counting objects: 100% (5/5), done.[K
+remote: Compressing objects:  33% (1/3)   [Kremote: Compressing objects:  66% (2/3)   [Kremote: Compressing objects: 100% (3/3)   [Kremote: Compressing objects: 100% (3/3), done.[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0[K
+From https://github.com/bmidhunbabu/pull-command
+ * branch            master     -> FETCH_HEAD
+   8bf901c..eb37a75  master     -> origin/master
+[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;37H(B[0;7m[ Reading File ][3d(B[m[22;43H(B[0;7m 7 lines[10d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3    File: /home/mca/midhun/git/pull-command/.git/MERGE_MSG               [3;1H(B[mMerge branch 'master' of https://github.com/bmidhunbabu/pull-command[5d# Please enter a commit message to explain why this merge is necessary,[6d# especially if it merges an updated upstream into a topic branch.[7d#[8d# Lines starting with '#' will be ignored, and an empty message aborts[9d# the commit.[23d(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Uncut Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line[3d[22d[J[24;89H[24;1H[?1049l[?1l>Merge made by the 'recursive' strategy.
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ git pull origin mastersh[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "output file addeed"[A]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ [C[C[C[C[8Ppush origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Username for 'https://github.com': bmidhunbabu
+Password for 'https://bmidhunbabu@github.com': 
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 502 bytes | 0 bytes/s, done.
+Total 4 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/bmidhunbabu/pull-command.git
+   eb37a75..d1d957d  master -> master
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ command
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Code
+No command 'Code' found, did you mean:
+ Command 'node' from package 'nodejs-legacy' (universe)
+ Command 'ode' from package 'plotutils' (universe)
+Code: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Issues 0
+Issues: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Pull requests 1
+Pull: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Projects 0
+Projects: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Wiki
+No command 'Wiki' found, did you mean:
+ Command 'kiki' from package 'kiki' (universe)
+Wiki: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Insights
+Insights: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Settings
+Settings: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ pull-command/typescript
+bash: pull-command/typescript: No such file or directory
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ @bmidhunbabu bmidhunbabu types cript added 3d2286d an hour ago
+@bmidhunbabu: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ 8 lines (6 sloc) 745 Bytes
+bash: syntax error near unexpected token `('
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Script started on Wednesday 30  January 2019 02:40:52 PM IST
+No command 'Script' found, did you mean:
+ Command 'script' from package 'bsdutils' (main)
+Script: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ 0;mca@mca-OptiPlex-5055-Ryzen- CPU: ~/midhun/system-design1;32mmca@mca-OptiPlex-5055-Ryzen-CPU0m:1;34m~/midhun/system-de sign0m$ ls
+0: command not found
+mca@mca-OptiPlex-5055-Ryzen-CPU:: command not found
+32mmca@mca-OptiPlex-5055-Ryzen-CPU0m:1: command not found
+bash: 34m~/midhun/system-design0m$: No such file or directory
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ m1;32mtest.txtm typescriptcomm and
+m1: command not found
+command
+Code
+Issues 0
+Pull requests 1
+Projects 0
+Wiki
+Insights
+Settings
+pull-command/typescript
+@bmidhunbabu bmidhunbabu typescript added 3d2286d an hour ago
+8 lines (6 sloc) 745 Bytes
+Script started on Wednesday 30 January 2019 02:40:52 PM IST
+^[]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/system-design^G^[[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU^[[00m:^[[01;34m~/midhun/system-design^[[00m$ ls
+^[[0m^[[01;32mtest.txt^[[0m typescript32mtest.txtm: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Code
+No command 'Code' found, did you mean:
+ Command 'ode' from package 'plotutils' (universe)
+ Command 'node' from package 'nodejs-legacy' (universe)
+Code: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Issues 0
+Issues: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Pull requests 1
+Pull: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Projects 0
+Projects: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Wiki
+No command 'Wiki' found, did you mean:
+ Command 'kiki' from package 'kiki' (universe)
+Wiki: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Insights
+Insights: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Settings
+Settings: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ pull-command/typescript
+bash: pull-command/typescript: No such file or directory
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ @bmidhunbabu bmidhunbabu types cript added 3d2286d an hour ago
+@bmidhunbabu: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ 8 lines (6 sloc) 745 Bytes
+bash: syntax error near unexpected token `('
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Script started on Wednesday 30  January 2019 02:40:52 PM IST
+No command 'Script' found, did you mean:
+ Command 'script' from package 'bsdutils' (main)
+Script: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ 0;mca@mca-OptiPlex-5055-Ryzen- CPU: ~/midhun/system-design1;32mmca@mca-OptiPlex-5055-Ryzen-CPU0m:1;34m~/midhun/system-de sign0m$ ls
+0: command not found
+mca@mca-OptiPlex-5055-Ryzen-CPU:: command not found
+32mmca@mca-OptiPlex-5055-Ryzen-CPU0m:1: command not found
+bash: 34m~/midhun/system-design0m$: No such file or directory
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ m1;32mtest.txtm typescriptcomm and
+m1: command not found
+32mtest.txtm: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Code
+No command 'Code' found, did you mean:
+ Command 'ode' from package 'plotutils' (universe)
+ Command 'node' from package 'nodejs-legacy' (universe)
+Code: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Issues 0
+Issues: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Pull requests 1
+Pull: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Projects 0
+Projects: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Wiki
+No command 'Wiki' found, did you mean:
+ Command 'kiki' from package 'kiki' (universe)
+Wiki: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Insights
+Insights: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Settings
+Settings: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ pull-command/typescript
+bash: pull-command/typescript: No such file or directory
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ @bmidhunbabu bmidhunbabu types cript added 3d2286d an hour ago
+@bmidhunbabu: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ 8 lines (6 sloc) 745 Bytes
+bash: syntax error near unexpected token `('
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ Script started on Wednesday 30  January 2019 02:40:52 PM IST
+No command 'Script' found, did you mean:
+ Command 'script' from package 'bsdutils' (main)
+Script: command not found
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ 0;mca@mca-OptiPlex-5055-Ryzen- CPU: ~/midhun/system-design1;32mmca@mca-OptiPlex-5055-Ryzen-CPU0m:1;34m~/midhun/system-de sign0m$ ls
+0: command not found
+mca@mca-OptiPlex-5055-Ryzen-CPU:: command not found
+32mmca@mca-OptiPlex-5055-Ryzen-CPU0m:1: command not found
+bash: 34m~/midhun/system-design0m$: No such file or directory
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;32mmca@mca-OptiPlex-5055-Ryzen-CPU[00m:[01;34m~/midhun/git/pull-command[00m$ m1;32mtest.txtm typescript[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit branch -a
+* [32mmaster[m
+  v1.0[m
+  [31mremotes/origin/master[m
+  [31mremotes/origin/v1.0[m
+]0;mca@mca-OptiPlex-5055-Ryzen-CPU: ~/midhun/git/pull-command[01;3
